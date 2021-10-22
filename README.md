@@ -28,12 +28,12 @@
 
 ### Save and Exit
 
-* ```w```     -> Save
-* ```q```     -> Exit
-* ```q!```    -> Force Exit
-* ```wa```    -> Save all
-* ```wq```    -> Save and exit
-* ```wqa```   -> Save and exit all
+* ```:w```     -> Save
+* ```:q```     -> Exit
+* ```:q!```    -> Force Exit
+* ```:wa```    -> Save all
+* ```:wq```    -> Save and exit
+* ```:wqa```   -> Save and exit all
 
 ### Cursor Movement
 
